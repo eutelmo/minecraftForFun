@@ -1,0 +1,13 @@
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\bin\Debug\netcoreapp3.1\MInecrfat.exe
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\bin\Debug\netcoreapp3.1\MInecrfat.deps.json
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\bin\Debug\netcoreapp3.1\MInecrfat.runtimeconfig.json
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\bin\Debug\netcoreapp3.1\MInecrfat.runtimeconfig.dev.json
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\bin\Debug\netcoreapp3.1\MInecrfat.dll
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\bin\Debug\netcoreapp3.1\MInecrfat.pdb
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\obj\Debug\netcoreapp3.1\MInecrfat.csprojAssemblyReference.cache
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\obj\Debug\netcoreapp3.1\MInecrfat.AssemblyInfoInputs.cache
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\obj\Debug\netcoreapp3.1\MInecrfat.AssemblyInfo.cs
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\obj\Debug\netcoreapp3.1\MInecrfat.csproj.CoreCompileInputs.cache
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\obj\Debug\netcoreapp3.1\MInecrfat.dll
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\obj\Debug\netcoreapp3.1\MInecrfat.pdb
+C:\Users\eutel\OneDrive\Documentos\CodeForFun\MInecrfat\MInecrfat\obj\Debug\netcoreapp3.1\MInecrfat.genruntimeconfig.cache
